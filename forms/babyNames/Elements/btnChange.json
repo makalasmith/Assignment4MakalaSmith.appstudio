@@ -28,7 +28,7 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnDone",
+  "id": "btnChange",
   "left": 212,
   "mAll": "",
   "mBottom": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 212,
-  "value": "Done",
+  "top": 278,
+  "value": "Next",
   "width": "auto"
 }
