@@ -9,51 +9,14 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Program2",
-        "Elements",
-        "btnCustomer.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Program2",
-        "Elements",
-        "btnDelete.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Program2",
-        "Elements",
-        "btnRefresh.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Program2",
-        "Elements",
-        "selCustomers.json"
-      ]
-    }
-  ],
+  "children": [],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Program2",
+  "id": "favBabyNames",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

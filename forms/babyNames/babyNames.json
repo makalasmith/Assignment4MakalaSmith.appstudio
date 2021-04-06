@@ -14,36 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "Program2",
+        "babyNames",
         "Elements",
-        "btnCustomer.json"
+        "lblInstructions.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Program2",
+        "babyNames",
         "Elements",
-        "btnDelete.json"
+        "selBabyNames.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Program2",
+        "babyNames",
         "Elements",
-        "btnRefresh.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Program2",
-        "Elements",
-        "selCustomers.json"
+        "btnDone.json"
       ]
     }
   ],
@@ -53,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Program2",
+  "id": "babyNames",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -61,7 +52,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "babyNames.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

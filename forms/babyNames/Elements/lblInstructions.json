@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 95,
+  "height": 155,
   "hidden": "",
-  "id": "lblMessage",
+  "id": "lblInstructions",
   "labelStyle": "text",
-  "left": 18,
+  "left": 19,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 13,
-  "value": "",
-  "width": 261
+  "top": 11,
+  "value": "There are 20 baby names populated below. Choose your top 5 by using the control/command key and clicking the ones you want. When done, click the button to go on to the next step to look at your top 5.",
+  "width": 267
 }

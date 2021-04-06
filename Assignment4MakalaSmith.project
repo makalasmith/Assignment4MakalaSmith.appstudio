@@ -33,6 +33,22 @@
             "Program2",
             "Program2.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "babyNames",
+            "babyNames.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favBabyNames",
+            "favBabyNames.json"
+          ]
         }
       ],
       "configxml": null,
@@ -54,7 +70,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Program2",
+      "firstform": "babyNames",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
