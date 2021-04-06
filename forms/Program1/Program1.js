@@ -6,7 +6,7 @@ let netID = "mms96354"
 let database = "mms96354"
 let allCustomerData = []
 var states = ['AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FL', 'GA', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY']
-program1.onshow = function() {
+Program1.onshow = function() {
   statesDrop.clear()
   for (i = 0; i < states.length; i++)
     statesDrop.addItem(states[i])
